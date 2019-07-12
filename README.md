@@ -3,4 +3,4 @@ thanks
 i open this file by using
 git config --file REAFDME.md -e
 it worked
-i hope this won't cause any problem
+this is bound to casue trouble!
