@@ -4,3 +4,5 @@ i open this file by using
 git config --file REAFDME.md -e
 it worked
 just something new!
+Updates in stage
+more updates in working directory,on a branch
